@@ -7,4 +7,4 @@ Welcome to Coffee Lover's Paradise! This web application displays information ab
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/CoffeeLoversParadise.git
+   git clone https://github.com/786selsela/Coffee-Lovers.git
